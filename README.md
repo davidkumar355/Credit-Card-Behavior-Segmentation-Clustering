@@ -58,6 +58,8 @@ The algorithm identified four distinct customer segments, each driving a specifi
 3. **Power Spenders (Cluster 2):** Highly profitable, low-risk users who maximize limits but clear balances regularly. *(Strategy: Retain and upsell premium reward tiers).*
 4. **Disciplined Payers (Cluster 3):** Prudent convenience users with minimal balances and perfect payment behavior. *(Strategy: Nudge behavior via limit increases).*
 
+<img width="990" height="705" alt="Screenshot 2026-04-15 201620" src="https://github.com/user-attachments/assets/7da4b383-aed9-4682-8593-fce6fefbd994" />
+
 ---
 
 ## 🚀 Getting Started / Quickstart
