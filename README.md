@@ -28,7 +28,7 @@ This project segments a portfolio of active credit card customers into distinct 
 
 The project transitions from an exploratory Jupyter Notebook pipeline into a fully interactive Streamlit web application, allowing stakeholders to visually audit clusters and simulate CRM tagging in real-time.
 
-<div align="center">
+
 
 ---
 
