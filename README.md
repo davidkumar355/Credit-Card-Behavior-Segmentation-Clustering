@@ -19,11 +19,6 @@
 - [Getting Started / Quickstart](#-getting-started--quickstart)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Usage](#usage)
-- [Project Structure](#-project-structure)
-- [Roadmap](#-roadmap)
-- [Contribution](#-contribution)
-- [License & Acknowledgements](#-license--acknowledgements)
 
 ---
 
